@@ -2,6 +2,10 @@
 
 Python package and CLI for bitext alignment, with support for interactive HTML output and PDF output via XeLaTeX.
 
+## AI Use
+
+This repository is the product of human work. LLMs are occasionally used for brainstorming and feedback, but the code 
+
 ## Roadmap
 
 - [ ] add nix flake
