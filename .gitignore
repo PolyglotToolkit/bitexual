@@ -1,3 +1,6 @@
+.idea/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -190,6 +193,7 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
+**/.ruff_cache/
 
 # PyPI configuration file
 .pypirc
